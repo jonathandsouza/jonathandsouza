@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+<img src="https://media.tenor.com/lndtLWwXZC0AAAAi/%D1%87%D1%82%D0%BE.gif"/>
 
 <!--
 **jonathandsouza/jonathandsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
